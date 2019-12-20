@@ -1,0 +1,15 @@
+Package: my.t.test
+Type: Package
+Title: a tool of R to deal with t test and plot corresponding image
+Version: 0.1.0
+Author: Xiangkun Wang [aut, cre],
+  Hao Liang [aut],
+  Shihui Yu [aut]
+Maintainer: Xiangkun Wang <ee9096@gmail.com>
+Description: An implementation of t.test() adding the function of plotting corresponding image for a htest
+    object, such as a histogram for one-sample t-test, side-by-side box plots for two-sample t-tests or
+    variance tests, normal quantile-quantile plot for normality tests.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
